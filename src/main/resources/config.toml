@@ -1,0 +1,15 @@
+[leagues]
+
+    [leagues.premier]
+    spiId = 2411
+    espnStandings = "http://www.espn.com/soccer/standings/_/league/eng.1"
+    winPoints = 3
+    drawPoints = 1
+    losePoints = 0
+
+    [leagues.brasileirao]
+    spiId = 2105
+    espnStandings = "http://www.espn.com/soccer/standings/_/league/bra.1"
+    winPoints = 3
+    drawPoints = 1
+    losePoints = 0
